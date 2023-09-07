@@ -6,9 +6,7 @@ import Home from "./routes/home/home.component";
 
 import Authentication from "./routes/authentication/authentication.component"
 
-const Shop = () => {
-  return <h1>i am shop</h1>
-}
+import Shop from "./shop/shop.component";
 
 const App = () => {
 
